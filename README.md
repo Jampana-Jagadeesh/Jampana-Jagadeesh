@@ -22,7 +22,8 @@
 - 💬 Ask me about **Python, PowerBI, SQL, Data Analysis, Advanced Excel, Machine Learning**
 
 - 📫 How to reach me **jagadeeshjampana5@gmail.com**
-
+- 😎 Intership Experinece on **Data Analyst** in foresight Power BI 
+  [Certificate](https://training.foresightbi.com.ng/certificates/62asdecpfi) [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODMxYTA2MTItYmM3Yy00ZTQwLWFhYzItZmRhYzNkM2U0YzljIiwidCI6IjBlODY5M2EwLTljODctNGnU4YS04ZTZlLTQ2MjYxZGUxMjkyYSJ9)
 - 📄 [My Resume][resume-link]
 
 [resume-link]: https://drive.google.com/file/d/1AsdPr4TQyEcS6j9IaDwD5cVAsv7LiUHZ/view?usp=sharing
