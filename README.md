@@ -46,7 +46,7 @@
     <a href="https://www.hackerrank.com/profile/jagadeeshjampan1" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/undefined/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"/> </a>  
     <a href="https://www.codechef.com/users/jagadeesh_6004" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/codechef.png"/> </a>
     <a href="https://auth.geeksforgeeks.org/user/jagadeeshuz7i" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/GeeksforGeeks.png"/> </a>
-    <a href="" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/undefined/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/> </a>     
+    <a href="https://leetcode.com/191fa06004/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/undefined/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/> </a>     
 </p>
 
 ## **Skills**:
