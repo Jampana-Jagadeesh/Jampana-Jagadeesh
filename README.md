@@ -8,7 +8,7 @@
     </a>
 </div>
 <h3 align="center">I do Open Source. ❤️</h3>
-<h4 align="center">My Portfolio:https://jagadeesh-portfolio-site.netlify.app/ </h4>
+<h4 align="center">My Portfolio:https: https://jampana-jagadeesh.github.io/Portfolio/ </h4>
 <div align="center">
   <a align="center" href="https://drive.google.com/file/d/1vnuGDWzl2OJtOuxyEVhx95iEJ9okMTET/view">
     <strong>My Resume</strong>
