@@ -10,7 +10,7 @@
 <h3 align="center">I do Open Source. ❤️</h3>
 <h4 align="center">My Portfolio:https: https://jampana-jagadeesh.github.io/Portfolio/ </h4>
 <div align="center">
-  <a align="center" href="https://drive.google.com/file/d/1vnuGDWzl2OJtOuxyEVhx95iEJ9okMTET/view">
+  <a align="center" href="https://drive.google.com/file/d/1BLZTloR8O3H0meOW_76N5-UUsD_2Bbh4/view?usp=sharing">
     <strong>My Resume</strong>
   </a>
 </div>
@@ -26,7 +26,7 @@
   [Certificate](https://training.foresightbi.com.ng/certificates/62asdecpfi) [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODMxYTA2MTItYmM3Yy00ZTQwLWFhYzItZmRhYzNkM2U0YzljIiwidCI6IjBlODY5M2EwLTljODctNGnU4YS04ZTZlLTQ2MjYxZGUxMjkyYSJ9)
 - 📄 [My Resume][resume-link]
 
-[resume-link]: https://drive.google.com/file/d/1vnuGDWzl2OJtOuxyEVhx95iEJ9okMTET/view
+[resume-link]: https://drive.google.com/file/d/1BLZTloR8O3H0meOW_76N5-UUsD_2Bbh4/view?usp=sharing
 
 
 - 🔗 [My LinkedIn](https://www.linkedin.com/in/jampana-jagadeesh-9704002a2/)
