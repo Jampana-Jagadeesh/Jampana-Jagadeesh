@@ -26,8 +26,7 @@
   [Certificate](https://training.foresightbi.com.ng/certificates/62asdecpfi) [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODMxYTA2MTItYmM3Yy00ZTQwLWFhYzItZmRhYzNkM2U0YzljIiwidCI6IjBlODY5M2EwLTljODctNGnU4YS04ZTZlLTQ2MjYxZGUxMjkyYSJ9)
 - 📄 [My Resume][resume-link]
 
-[resume-link]: https://drive.google.com/file/d/1p1IN9ZiCfzZB8STJaurk0ApWTpTdbIai/view
-
+[resume-link]: https://drive.google.com/file/d/1cSSAd-q8CwnhVgXSIUY8fE0EQ7TlMzjv/view?usp=sharing
 
 - 🔗 [My LinkedIn](https://www.linkedin.com/in/jampana-jagadeesh-9704002a2/)
   
