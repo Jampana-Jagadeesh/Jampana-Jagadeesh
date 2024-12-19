@@ -10,7 +10,7 @@
 <h3 align="center">I do Open Source. ❤️</h3>
 <h4 align="center">My Portfolio:https: https://jampana-jagadeesh.github.io/Portfolio/ </h4>
 <div align="center">
-  <a align="center" href="https://drive.google.com/file/d/1cSSAd-q8CwnhVgXSIUY8fE0EQ7TlMzjv/view?usp=sharing">
+  <a align="center" href="https://drive.google.com/file/d/10cxOSXjx5gMtCXc-gDBU-zJqSME7kDIj/view?usp=sharing">
     <strong>My Resume</strong>
   </a>
 </div>
